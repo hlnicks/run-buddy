@@ -8,6 +8,7 @@
 body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
+  padding: 60px;
 }
 
 
@@ -74,11 +75,6 @@ footer div {
 
 footer a {
   color: #024e76;
-}
-
-
-section {
-  padding: 60px;
 }
 
 
