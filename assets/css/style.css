@@ -14,6 +14,7 @@
 body {
   color: var(--tertiary-color);
   font-family: Helvetica, Arial, sans-serif;
+  padding: 60px;
 }
 
 
@@ -111,6 +112,7 @@ section {
 }
 
 /* HERO STYLES START */
+
 .hero {
   background-image: url('../images/hero-bg.jpg');
   background-size: cover;
